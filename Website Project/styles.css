@@ -1,0 +1,53 @@
+html {
+    background-color: beige;
+}
+
+h1 {
+    font-size: 72px;
+    font-family: font-family: 'Lora';
+    border: 12px cadetblue;
+    margin-left: 86px;
+    margin-right: 86px;
+    background-color: bisque;
+}
+
+h2 {
+    font-size: 36px;
+    font-family: 'Lora';
+    margin-left: 86px;
+    margin-right: 86px;
+    background-color: bisque;
+}
+
+body {
+    width: 1200px;
+    margin: 0 auto;
+    padding: 20px 20px 20px 20px;
+    background-color: lightgray;
+}
+
+p {
+    font-size: 16px;
+    margin-left: 86px;
+    
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    
+}
+
+ul {
+    margin-left: 86px;
+    margin-right: 86px;
+    background-color: bisque;
+}
+
+li {
+    font-size: 36px;
+    font-family: 'lora';
+    padding: 10px;
+    margin-left: 86px;
+}
+
